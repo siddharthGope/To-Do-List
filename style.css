@@ -1,0 +1,9 @@
+.checked {
+    text-decoration:line-through;
+}
+.task-menu {
+    display: none;
+}
+.show-task {
+   display: block;
+}
